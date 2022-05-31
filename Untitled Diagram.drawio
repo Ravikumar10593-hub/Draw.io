@@ -1,4 +1,4 @@
-<mxfile modified="2022-05-31T18:34:36.838Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="mGduadY3xftmPgJ3YyxN" version="18.1.3" type="github">
+<mxfile modified="2022-05-31T18:41:14.366Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Jqs_puxJjdRxa_dbwb9a" version="18.1.3" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1117" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -96,6 +96,16 @@
         </mxCell>
         <mxCell id="mC8kgNhdGG92MI_CK5uJ-20" value="Similar to OEE3 Pipeline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="550" y="410" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mC8kgNhdGG92MI_CK5uJ-21" value="Triggers Masters Pipeline" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="220" as="sourcePoint" />
+            <mxPoint x="730" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="220" />
+              <mxPoint x="760" y="480" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
