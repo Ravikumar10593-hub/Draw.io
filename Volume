@@ -1,6 +1,6 @@
-<mxfile modified="2022-06-01T19:21:11.482Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="O2eUXMXyfHMF_3dmZSV9" version="18.2.0" type="github">
+<mxfile modified="2022-06-01T19:25:44.674Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="GW1ZNH4LmlHWZVyj2COx" version="18.2.0" type="github">
   <diagram id="7gcUSTIZ7YSJ5vT40chW" name="Page-1">
-    <mxGraphModel dx="920" dy="551" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="468" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -137,12 +137,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8oP8KsIl12VN9UgCRLlA-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="lPhzHw5C4C0OCVWtXSsd-24">
+        <mxCell id="8oP8KsIl12VN9UgCRLlA-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="lPhzHw5C4C0OCVWtXSsd-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="274.5098517922795" y="384.68625057444854" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8oP8KsIl12VN9UgCRLlA-2" value="SQL-&amp;gt;Blob" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8oP8KsIl12VN9UgCRLlA-1">
+        <mxCell id="8oP8KsIl12VN9UgCRLlA-2" value="SQL-&amp;gt;Blob" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="8oP8KsIl12VN9UgCRLlA-1" vertex="1" connectable="0">
           <mxGeometry x="-0.3975" y="2" relative="1" as="geometry">
             <mxPoint x="-11" y="-3" as="offset" />
           </mxGeometry>
@@ -155,6 +155,15 @@
         </mxCell>
         <mxCell id="lPhzHw5C4C0OCVWtXSsd-26" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;PIPELINE 2&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="847" y="521" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OJQOCrLfKS90yyqr_HD3-1" value="Uses Master Pipe line&lt;br&gt;To Pull the data&lt;br&gt;Into SQL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="317" y="20" width="127" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="OJQOCrLfKS90yyqr_HD3-2" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="lPhzHw5C4C0OCVWtXSsd-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="357" y="134" as="sourcePoint" />
+            <mxPoint x="443" y="100" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
