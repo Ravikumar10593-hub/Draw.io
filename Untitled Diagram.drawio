@@ -1,6 +1,6 @@
-<mxfile modified="2022-07-11T12:11:48.995Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="kJHoK23qMNVuK8hlzwDW" version="20.0.4" type="github">
+<mxfile modified="2022-07-11T12:14:37.978Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="CZm4GVLA_6ZYPMGLQxH7" version="20.0.4" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
-    <mxGraphModel dx="920" dy="551" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1203" dy="720" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,7 +29,7 @@
         <mxCell id="mC8kgNhdGG92MI_CK5uJ-4" value="OEE weekly Pipeline" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" parent="1" vertex="1">
           <mxGeometry x="392" y="200" width="78" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="mC8kgNhdGG92MI_CK5uJ-5" value="Transform the data to pull OEE2 &amp;amp; Implied capacity" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" parent="1" vertex="1">
+        <mxCell id="mC8kgNhdGG92MI_CK5uJ-5" value="Weekly OEE Transpose.ipynb" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" parent="1" vertex="1">
           <mxGeometry x="510" y="200" width="61.76" height="70" as="geometry" />
         </mxCell>
         <mxCell id="mC8kgNhdGG92MI_CK5uJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="mC8kgNhdGG92MI_CK5uJ-6" edge="1">
@@ -81,8 +81,8 @@
             <mxPoint x="680" y="490" as="sourcePoint" />
             <mxPoint x="680" y="490" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="680" y="610" />
-              <mxPoint x="360" y="610" />
+              <mxPoint x="680" y="624" />
+              <mxPoint x="360" y="624" />
               <mxPoint x="360" y="490" />
             </Array>
           </mxGeometry>
@@ -90,7 +90,7 @@
         <mxCell id="mC8kgNhdGG92MI_CK5uJ-16" value="OEE weekly Pipeline" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" parent="1" vertex="1">
           <mxGeometry x="392" y="510" width="78" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="mC8kgNhdGG92MI_CK5uJ-17" value="Transform the data to pull OEE2 &amp;amp; Implied capacity" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" parent="1" vertex="1">
+        <mxCell id="mC8kgNhdGG92MI_CK5uJ-17" value="Transform the data to pull OEE2 &amp;amp; Implied capacity&lt;br&gt;(TC KPI OEE2.ipynb)" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" parent="1" vertex="1">
           <mxGeometry x="510" y="510" width="61.76" height="70" as="geometry" />
         </mxCell>
         <mxCell id="mC8kgNhdGG92MI_CK5uJ-18" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
