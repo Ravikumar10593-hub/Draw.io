@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2023-01-24T10:40:02.286Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.8.3" etag="XLY49hU3b_vBrGH1cteY" type="github"><diagram id="oU9h8lCjw2jBLlwBLFPy">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-24T13:43:55.019Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.8.3" etag="VYZ-7aBHcI-d0-YIVeEm" type="github">
+  <diagram id="2UiVx4s0XuKnJDsQhXmO" name="Page-1">
+    <mxGraphModel dx="2269" dy="1343" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yzdZpW3bVmQ6ww04d_my-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/3270/3270865.png;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="230" y="400" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="yzdZpW3bVmQ6ww04d_my-3" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Start&lt;/font&gt;" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="485" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yzdZpW3bVmQ6ww04d_my-4" value="&lt;ol style=&quot;direction: ltr; unicode-bidi: embed; margin-top: 0in; margin-bottom: 0in; font-family: Calibri;&quot; type=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0in; font-size: 16.5pt;&quot;&gt;&lt;span style=&quot;font-weight: bold; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;Data source identification &amp;amp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in; font-size: 16.5pt;&quot;&gt;&lt;span style=&quot;font-weight: bold; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;Data collection&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;/ol&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="100" y="540" width="320" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yzdZpW3bVmQ6ww04d_my-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="380" width="290" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="yzdZpW3bVmQ6ww04d_my-8" value="" style="endArrow=classic;html=1;rounded=0;fontSize=22;" edge="1" parent="1" source="yzdZpW3bVmQ6ww04d_my-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="285" y="349.28932188134524" as="sourcePoint" />
+            <mxPoint x="285" y="299.28932188134524" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yzdZpW3bVmQ6ww04d_my-9" value="This Step will take a good amount of time, where&amp;nbsp;&lt;br&gt;team will collect all the data from different sources, and&amp;nbsp;&lt;br&gt;Understand the data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="40" y="205" width="560" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="yzdZpW3bVmQ6ww04d_my-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/3285/3285819.png;" vertex="1" parent="1">
+          <mxGeometry x="500" y="415" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="yzdZpW3bVmQ6ww04d_my-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="370" width="240" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="yzdZpW3bVmQ6ww04d_my-12" value="" style="endArrow=classic;html=1;rounded=0;fontSize=22;" edge="1" parent="1" source="yzdZpW3bVmQ6ww04d_my-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="720" as="sourcePoint" />
+            <mxPoint x="600" y="740.7106781186548" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yzdZpW3bVmQ6ww04d_my-13" value="Create a detailed Data&amp;nbsp;&lt;h1 style=&quot;box-sizing: border-box; outline: none; font-size: 22px; margin: 0px 0px 10px; padding: 0px; color: rgb(55, 73, 87); line-height: 1.2; align-self: baseline; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Dictionary for better data understanding&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="390" y="740" width="420" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
