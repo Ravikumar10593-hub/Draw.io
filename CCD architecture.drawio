@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-24T13:47:14.471Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.8.3" etag="ywQcISQPjNDAeDBbGx7j" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-24T13:47:49.900Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.8.3" etag="Pm6FtlWK22a1nrVX2HXQ" type="github">
   <diagram id="2UiVx4s0XuKnJDsQhXmO" name="Page-1">
     <mxGraphModel dx="2269" dy="1343" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -52,8 +52,8 @@
             <mxPoint x="925" y="299.28932188134524" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yzdZpW3bVmQ6ww04d_my-18" value="Create a detailed Data&amp;nbsp;&lt;h1 style=&quot;box-sizing: border-box; outline: none; font-size: 22px; margin: 0px 0px 10px; padding: 0px; color: rgb(55, 73, 87); line-height: 1.2; align-self: baseline; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Dictionary for better data understanding&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="710" y="215" width="420" height="80" as="geometry" />
+        <mxCell id="yzdZpW3bVmQ6ww04d_my-18" value="Exploratory data analysis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="785" y="235" width="270" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
