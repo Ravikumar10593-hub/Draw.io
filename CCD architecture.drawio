@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-24T13:47:49.900Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.8.3" etag="Pm6FtlWK22a1nrVX2HXQ" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-24T13:49:50.006Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.8.3" etag="uRZFMp9AWKG3t5HGxtto" type="github">
   <diagram id="2UiVx4s0XuKnJDsQhXmO" name="Page-1">
     <mxGraphModel dx="2269" dy="1343" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -54,6 +54,21 @@
         </mxCell>
         <mxCell id="yzdZpW3bVmQ6ww04d_my-18" value="Exploratory data analysis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="785" y="235" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yzdZpW3bVmQ6ww04d_my-19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/9390/9390674.png;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="435" width="205" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="yzdZpW3bVmQ6ww04d_my-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="370" width="240" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="yzdZpW3bVmQ6ww04d_my-21" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=22;" edge="1" parent="1" source="yzdZpW3bVmQ6ww04d_my-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1240" y="720" as="sourcePoint" />
+            <mxPoint x="1240" y="740.7106781186548" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yzdZpW3bVmQ6ww04d_my-22" value="Analytical dataset creation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="740" width="280" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
