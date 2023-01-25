@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-25T12:15:58.623Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.8.3" etag="dVZ0hKvfhZ8aTMtdGGiJ" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-25T13:34:13.616Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.8.3" etag="hy9KK8B7Gc5leL1VL9fR" type="github">
   <diagram id="2UiVx4s0XuKnJDsQhXmO" name="Page-1">
     <mxGraphModel dx="2269" dy="1343" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -241,6 +241,12 @@
             <mxPoint x="1140" y="518" as="sourcePoint" />
             <mxPoint x="1196" y="518" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yzdZpW3bVmQ6ww04d_my-63" value="&lt;b&gt;Problem Statement:&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1080" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yzdZpW3bVmQ6ww04d_my-64" value="&lt;font color=&quot;#1a1a1a&quot; style=&quot;font-size: 23px;&quot;&gt;To predict Raw Material, Packaging Material and Labor &amp;amp; Overhead cost&amp;nbsp;&lt;span style=&quot;font-family: Calibri;&quot;&gt;per LBS for product families and&lt;br&gt;pack types that are currently not produced at &lt;/span&gt;&lt;span style=&quot;font-family: Calibri; font-weight: bold;&quot;&gt;the s&lt;/span&gt;&lt;span style=&quot;font-family: Calibri;&quot;&gt;ource, but which the source could produce&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="285" y="1075" width="1060" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
