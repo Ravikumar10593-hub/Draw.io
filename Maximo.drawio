@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2023-05-12T10:53:44.816Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.13" etag="W-OcfMIRx30lDXZSV0P_" type="github"><diagram name="Page-1" id="FlGgIouDMvAAl6N4Y5of">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-05-12T10:57:51.296Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="iROjMQmnu81DrLyo2z8V" version="20.8.13" type="github">
+  <diagram name="Page-1" id="FlGgIouDMvAAl6N4Y5of">
+    <mxGraphModel dx="1434" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VnKn08dxTnmCy2sUlnxM-1" value="Storage Account&lt;br&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Blob_Block.svg;" vertex="1" parent="1">
+          <mxGeometry x="460" y="330" width="65" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="VnKn08dxTnmCy2sUlnxM-2" value="SQL Server&lt;br&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/preview/Time_Series_Data_Sets.svg;" vertex="1" parent="1">
+          <mxGeometry x="250" y="500" width="48" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="VnKn08dxTnmCy2sUlnxM-3" value="Data Bricks" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" vertex="1" parent="1">
+          <mxGeometry x="220" y="300" width="62.8" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="VnKn08dxTnmCy2sUlnxM-4" value="Data Factory&lt;br&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Data_Factory.svg;" vertex="1" parent="1">
+          <mxGeometry x="370" y="100" width="68" height="68" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
